@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Hush",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-01T06:14:35.315066Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hush (1998 Remaster)",
+      "artist": "Deep Purple",
+      "has_synced": true,
+      "path": "select/01_Hush_(1998_Remaster)_Deep_Purple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hush Hush;Hush Hush - Live",
+      "artist": "Girls' Generation (Tae Yeon)",
+      "has_synced": false,
+      "path": "select/02_Hush_Hush;Hush_Hush_-_Live_Girls'_Generation_(Tae_Yeon).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hush Hush, Hush Hush (태연)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/03_Hush_Hush,_Hush_Hush_(태연)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep It On the Hush",
+      "artist": "Ludacris feat. Jazze Pha",
+      "has_synced": true,
+      "path": "select/04_Keep_It_On_the_Hush_Ludacris_feat._Jazze_Pha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep It on the Hush (feat. Jazze Pha)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/05_Keep_It_on_the_Hush_(feat._Jazze_Pha)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hush",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/06_Hush_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hush - Theme From Turn",
+      "artist": "Joy Williams feat. Matt Berninger",
+      "has_synced": false,
+      "path": "select/07_Hush_-_Theme_From_Turn_Joy_Williams_feat._Matt_Berninger.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hush",
+      "artist": "Liz",
+      "has_synced": true,
+      "path": "select/08_Hush_Liz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hush Hush",
+      "artist": "Natalie Portman's Shaved Head",
+      "has_synced": false,
+      "path": "select/09_Hush_Hush_Natalie_Portman's_Shaved_Head.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hush Hush",
+      "artist": "Pussycat Dolls feat. Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/10_Hush_Hush_Pussycat_Dolls_feat._Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hush Hush (with mash up)",
+      "artist": "Pussycat Dolls feat. Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/11_Hush_Hush_(with_mash_up)_Pussycat_Dolls_feat._Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hush Hush (With Mash Up)",
+      "artist": "Nicole Scherzinger",
+      "has_synced": false,
+      "path": "select/12_Hush_Hush_(With_Mash_Up)_Nicole_Scherzinger.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Honey Hush",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/13_Honey_Hush_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hush",
+      "artist": "Milli Vanilli",
+      "has_synced": false,
+      "path": "select/14_Hush_Milli_Vanilli.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "International Rescue (Koishii & Hush Edit)",
+      "artist": "Fuzzbox",
+      "has_synced": false,
+      "path": "select/15_International_Rescue_(Koishii_&_Hush_Edit)_Fuzzbox.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hush Boy",
+      "artist": "Basement Jaxx",
+      "has_synced": true,
+      "path": "select/16_Hush_Boy_Basement_Jaxx.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hush Boy (Les Visiteurs Remix)",
+      "artist": "Basement Jaxx",
+      "has_synced": false,
+      "path": "select/17_Hush_Boy_(Les_Visiteurs_Remix)_Basement_Jaxx.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hush",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Hush_IVE.txt"
+    }
+  ]
+}
